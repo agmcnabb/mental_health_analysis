@@ -1,11 +1,14 @@
+# lowest number is true, highest number is not true.
 categorical_list_highest_num_not_true = [
-    'test'
+
 ]
 
+# 2 no, 1 yes
 categorical_list_binary_1 = [
 
 ]
 
+# 0 no, 1 yes
 categorical_list_binary_0 = [
 
 ]
