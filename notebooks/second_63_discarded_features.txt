@@ -1,0 +1,64 @@
+removed_features
+How willing is CM to take risks
+How patient is CM
+CM skin changes eg spots
+Does CM wear glasses or contact lenses
+Does CM have difficulty seeing
+Does CM have difficulty hearing
+Has CM been to a dentist in last 12 months
+Time CM wakes up on a school day
+VictimisGrid: hit or used a weapon against CM
+VictimisGrid: stolen something from CM
+Past month: freq of CM staying out (9pm+) without Parent knowing
+ASBOgrid: CM Pushed or shoved/hit/slapped/punched someone?
+ASBOgrid: CM stolen something from someone eg mobile phone, money
+Has CM been stopped or questioned by police
+Has CM ever been given a formal warning or caution from police
+DruGrid: Cannabis (also known as weed, marijuana, dope, hash or skunk)?
+Do CM's friends take any illegal drugs
+How often CM hurts or picks on brothers or sisters
+How often CM hurts or picks on other children
+How many of your close friends get into a lot of trouble at school?
+What do you do if you are worried about smthng? (Tell a (boy/girl) friend)
+(last 12 months) has CM held hands with another young person?
+(last 12 months) has CM kissed another young person?
+(last 12 months) has CM cuddled with another young person?
+(last 12 months) has CM had sexual intercourse with another YP?
+DisciplineGrid: Tell you off or shout at you?
+DisciplineGrid: Ground you, stop you going out or from seeing your friends?
+DisciplineGrid: Punish you in some other way?
+Does your natural father live with you?
+Do you have any close friends? (friends = other young people)
+How many of your close friends go to the same school as you?
+How many of your close friends are boys?
+How often does CM misbehave in lessons
+Has CM missed school without parents' permission
+Languages used speaking with friends MC (A) [English]
+Languages used speaking with friends MC (A) [Other European language]
+Languages used speaking with friends MC (A) [Other Asian language]
+How close is CM with father
+How often does CM argue with father
+AcademicSelfConceptGrid: I am good at Science
+Who decided next year subjects (You, yourself)
+typical week term-time, how long cm spends doing homework?
+How often does anyone at home help with CM's homework
+Quiet area where CM is able to do homework
+EducMotGrid: How often do you try your best at school?
+EducMotGrid: How often do you find school interesting?
+Area safety: safe for CM to walk/play etc within a mile/20 min from home
+Do you allow unsupervised time outside home with frds (on weekends)
+Where CM gets spending money from MC (A) [From selling items]
+ConsumAttGrid: It bothers me if my friends have things I don't
+MoralAttGrid: How important is it to you to work hard?
+Wrong to start a fight
+Wrong to take things without paying
+Wrong to download music/films/games without paying
+AcademicSelfConceptGrid: I am good at English
+CM Age last birthday
+Height in centimeters
+Weight in kilos
+ActivGrid: Go to watch live sport?
+ActivGrid: Sing in a choir or play in a band or orchestra?
+ActivGrid: Attend a religious service?
+Days last week spent doing moderate to vigorous physical activity
+Hours per WEEKDAY spent watching TV or videos on computer

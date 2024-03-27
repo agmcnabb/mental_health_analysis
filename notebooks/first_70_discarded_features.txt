@@ -1,0 +1,71 @@
+removed_features
+Respondent s religion (A) [England]_8
+Respondent s religion (A) [England]_9
+Respondent s religion (A) [England]_10
+Respondent s religion (A) [England]_11
+Left/Right handed?_2
+Left/Right handed?_3
+What type of bread does CM normally eat_2
+What type of bread does CM normally eat_3
+What type of bread does CM normally eat_4
+What type of bread does CM normally eat_5
+What type of bread does CM normally eat_6
+Respondent s religion (A) [England]_1
+Respondent s religion (A) [England]_2
+Respondent s religion (A) [England]_3
+Respondent s religion (A) [England]_4
+Respondent s religion (A) [England]_5
+Respondent s religion (A) [England]_6
+Time CM wakes up when there is no school
+CM growth spurt
+Has CM ever entered someones home to steal or damage something
+ASBOgrid: CM Used or hit someone with a weapon?
+Has CM ever been arrested
+Past 12 months: has CM sent viruses to damage/infect other computers
+How often does CM drink artifically sweetened drinks
+How often does CM eat fast food
+GamblinGrid: Placing a private bet for money (e.g. with friends)?
+GamblinGrid: Placing a bet @ betting shop, eg football or horseracing?
+What do you do if you are worried about something? (Tell another relative)
+What do you do if you are worried about something? (Tell a teacher)
+What do you do if you are worried about something? (Tell another adult)
+How often do you see any of your grandparents?
+How many of your close friends are from the same ethnic group as you?
+Languages used speaking with friends MC (A) [Gaelic]
+Languages used speaking with friends MC (A) [Urdu]
+Languages used speaking with friends MC (A) [Punjabi]
+Languages used speaking with friends MC (A) [Hindi]
+Languages used speaking with friends MC (A) [Bengali]
+Languages used speaking with friends MC (A) [Sylheti]
+Languages used speaking with friends MC (A) [Tamil]
+Languages used speaking with friends MC (A) [Turkish]
+Languages used speaking with friends MC (A) [Arabic]
+Languages used speaking with friends MC (A) [Other]
+Languages used speaking with friends MC (A) [Other African language]
+Who decided next year subjects (Someone else)
+Needs qualifications to get a job worth having
+How likely is it CM will remain in education at the end of year 11?
+How likely is it CM will go to university? (Scale 0-100%)
+Where CM gets spending money from MC (A) [Saving]
+Where CM gets spending money from MC (A) [Other earnings]
+MoralAttGrid: How important is it to you to be well liked?
+Who decided next year subjects (Parents)
+Who decided next year subjects (School/teachers)
+Has CM has any formal cycle training
+Do you allow unsupervised time outside home with frds (afternoon after school)
+Where CM gets spending money from MC (A) [Regular pocket money/allowance]
+Where CM gets spending money from MC (A) [Chores/babysitting]
+Where CM gets spending money from MC (A) [Working in the family business]
+Where CM gets spending money from MC (A) [Paid job]
+Where CM gets spending money from MC (A) [Parents given when CM needs]
+Where CM gets spending money from MC (A) [Never get any money to spend]
+Where CM gets spending money from MC (A) [Money from friends/relatives]
+Where CM gets spending money from MC (A) [Money frm spcl occasins BirthD/Xmas]
+Where CM gets spending money from MC (A) [Reward for good behaviour/grades]
+Where CM gets spending money from MC (A) [Money for school]
+ActivGrid: Go to the cinema?
+ActivGrid: Read for enjoyment (not for school)?
+ActivGrid: Go to youth clubs/scouts/girlguides or oth organised activities?
+ActivGrid: Go to museums/galleries, visit historic place/stately home?
+Hours per WEEKDAY spent playing electronic games
+Does CM have computer of their own
