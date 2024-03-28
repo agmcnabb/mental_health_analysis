@@ -1,0 +1,39 @@
+removed_features
+Respondent s religion (A) [England]_7
+Has CM ever exercised to lose weight
+CM's perception of their weight
+How often CM bullied other children online
+How many of CM's friends drink alcohol
+How many of your close friends are girls?
+How many of your close friends work hard at school?
+When CM goes out, how often do parents know where?
+When CM goes out, how often do parents know who with?
+Wrong to write or spray paint on building/fence etc
+AcademicSelfConceptGrid: I am good at Maths
+AcademicSelfConceptGrid: I am good at PE
+Body fat percentage
+Does CM ever use the internet at home
+Hours per week spent on social networking sites
+EducMotGrid: How often do you feel school is a waste of time?
+How often does CM argue with mother
+When CM goes out, how often do parents know what CM does?
+What do you do if you are worried about something? (Keep it to myself)
+SocSupGrid: There is someone I trust whom I would turn to if I had problems
+How often CM's friends smoke cigarettes
+Has CM ever had an alcoholic drink
+How often brothers or sisters hurt or pick on CM
+VictimisGrid: CM insulted, threatened, shouted at
+VictimisGrid: been physically violent towards CM
+VictimisGrid: sexually assaulted CM
+CM's general level of health
+Time CM goes to sleep on a school night
+During the last 4 weeks how long does going to sleep usually take
+Has CM ever eaten less to lose weight
+RosenbergGrid: I feel I have a number of good qualities
+RosenbergGrid: I am able to do things as well as most other people
+RosenbergGrid: I am a person of value
+How much does CM trust others
+CM Sex_2
+How close is CM with mother
+How often CM eats at least 2 portions of fruit
+How often CM smokes e-cigarettes
